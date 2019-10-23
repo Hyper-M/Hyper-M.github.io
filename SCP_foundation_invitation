@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+            body{
+                background-color:rgb(255, 255, 190);
+                font-weight:900;
+                font-family:monospace;
+            }
+            #title{
+                text-align:center;
+                color:rgb(0, 180, 255);
+                font-weight:900;
+                font-family:monospace;
+            }
+            #to{color:rgb(0, 180, 255);}
+            #party{
+                color:rgb(255, 0, 0);
+                font-weight:900;
+                font-family:monospace;
+            }
+            #top_secret{
+                text-align:center;
+                color:rgb(255, 0, 0);
+            }
+            .important{
+                font-size:1.5em;
+                color:rgb(255, 0, 0);    
+            }
+            img.resize{
+                max-width:100%;
+            }
+            #S_C_P{
+                font-size:250%;
+                text-align:center;
+            }
+            
+        </style>
+    </head>
+    <body>
+        <h1 id="title">You're invited</h1>
+        <h2 id="party"><span id="to">To the</span> SCP Foundation</h2>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;You are chosen by us from the 7 billion people in the world. Proceed on reading if you want to know the truth about this world. If you don't want to join us, your memory will be erased. WE ARE WATCHING YOU RIGHT NOW.</p>
+        
+        <p id="top_secret">WARNING: THE FOLLOWING DETAILS ARE<br><span class="important">CLASSIFIED</span><br> ACCESS BY UNAUTHORIZED PERSONNEL IS STRICTLY PROHIBITED<br>PERPETRATORS WILL BE TRACKED, LOCATED, AND DETAINED.</p>
+        <img class="resize" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/SCP_Foundation_%28emblem%29.svg" alt="SCP Foundation Logo">
+        <h1 id="S_C_P">Secure, Contain, Protect</h1>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <h2> What is the SCP Foundation?</h2>
+        <p>The SCP foundation is a global secret organization is responsible for locating and containing individuals, entities, locations, and objects that violate natural law (referred to as SCPs). <span class="important">WE PROTECT THE WORLD AND HUMANITY</span>.</p>
+        <h2>What happens if I join the SCP Foundation?</h2>
+        <p>Your existence will be erased, articals that have connections with you will be changed, no one will know you, not even a single insect and animal will know you. <span class="important">YOU WEREN'T EVEN BORNED</span>.</p>
+        <h2>OK, but I'm still not convinced</h2>
+        <p>You should join us because...</p>
+        <ul>
+            <li> WE DISCOVER THE TRUTH OF THIS WORLD</li>
+            <li> WE UNCOVER THE MYSTERIES AND MYTHS</li>
+            <li> WE EXPLORE MAGIC AND SCIENCE</li>
+            <li><span class="important"> WE STARTED A NEW ERA</span></li>
+        </ul>
+        <h3><a href="http://www.scp-wiki.net">Click Here to learn more</a> and you will be teleported to us.</h3>
+    </body>
+</html>
